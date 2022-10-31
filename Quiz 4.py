@@ -13,6 +13,7 @@ def count_hashtag(string, target):
 count_hashtag("#compsci #college #class", "#")
 
 #Q42
+# try to only call and use the count_hashtag inside your code. You have it here, don't write it again!
 def hash_spam(string, target):
     total=0
     index=0
